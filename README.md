@@ -1,12 +1,6 @@
 # UFOs
 Module 11 DU Data Boot Camp
 
-Each paragraph has a heading. (2 pt)
-There are subheadings to break up text. (2 pt)
-Images are formatted and displayed where appropriate. (2 pt)
-Analysis (12 points)
-The written analysis has the following:
-
 Overview of the analysis:
 
 This assignment was to create a searchable table on a webpage so end users can find information they're looking for. 
@@ -19,7 +13,6 @@ The search function is easy for users -- they type in certain perameters into th
 
 Summary:
 
-One drawback of this website is 
-The summary addresses one drawback of this webpage (2 pt)
+One drawback of this website is that it's not easy for someone searching the database to compare and contrast the entries. So they can search and then read about the entries that match their search, but they can't save those search results. 
 
-The summary addresses two additional recommendations for further development (4 pt)
+I would reccomend making a comparison button so that certain entries can be clicked or marked and then compared to other entries with different search results. The website and database would also be enhanced by images for each entry, if they exist. 
